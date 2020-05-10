@@ -7,7 +7,7 @@ url: /2020/05/10/a-guide-to-user-journey-mapping/
 featured_image: /wp-content/uploads/2020/05/10.jpg
 categories:
   - Lifestyle
-layout: posts
+layout: post
 
 ---
 <figure class="wp-block-image size-large"><img src="http://localhost:8888/wordpress/wp-content/uploads/2020/05/10-1024x682.jpg" alt="" class="wp-image-41" srcset="http://localhost:8888/wordpress/wp-content/uploads/2020/05/10-1024x682.jpg 1024w, http://localhost:8888/wordpress/wp-content/uploads/2020/05/10-300x200.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2020/05/10-768x512.jpg 768w, http://localhost:8888/wordpress/wp-content/uploads/2020/05/10.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> 
