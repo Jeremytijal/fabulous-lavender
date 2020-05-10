@@ -5,8 +5,7 @@ type: post
 date: 2020-05-10T12:32:52+00:00
 url: /2020/05/10/behind-the-scenes-the-design-of-azimuth/
 featured_image: /wp-content/uploads/2020/05/6.jpg
-layout:
-  - post
+layout: post
 categories:
   - Work
 
