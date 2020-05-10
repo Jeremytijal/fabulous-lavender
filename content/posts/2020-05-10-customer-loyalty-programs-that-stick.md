@@ -1,11 +1,12 @@
 ---
 title: Customer Loyalty Programs That Stick
 author: admin
-type: post
+layout: post
 date: 2020-05-10T12:18:03+00:00
 url: /2020/05/10/customer-loyalty-programs-that-stick/
 featured_image: /wp-content/uploads/2020/05/3.jpg
-layout: post
+categories:
+  - Non classé
 
 ---
 <figure class="wp-block-image size-large"><img src="http://localhost:8888/wordpress/wp-content/uploads/2020/05/3-1024x682.jpg" alt="" class="wp-image-34" srcset="http://localhost:8888/wordpress/wp-content/uploads/2020/05/3-1024x682.jpg 1024w, http://localhost:8888/wordpress/wp-content/uploads/2020/05/3-300x200.jpg 300w, http://localhost:8888/wordpress/wp-content/uploads/2020/05/3-768x512.jpg 768w, http://localhost:8888/wordpress/wp-content/uploads/2020/05/3.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> 

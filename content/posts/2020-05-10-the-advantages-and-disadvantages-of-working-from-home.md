@@ -1,7 +1,7 @@
 ---
 title: The Advantages and Disadvantages of Working from Home
 author: admin
-type: post
+layout: post
 date: 2020-05-10T12:20:57+00:00
 url: /2020/05/10/the-advantages-and-disadvantages-of-working-from-home/
 featured_image: /wp-content/uploads/2020/05/9.jpg

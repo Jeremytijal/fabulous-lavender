@@ -1,7 +1,7 @@
 ---
 title: Sales as a Service
 author: admin
-type: post
+layout: post
 date: 2020-05-10T12:31:34+00:00
 url: /2020/05/10/sales-as-a-service/
 featured_image: /wp-content/uploads/2020/05/4.jpg

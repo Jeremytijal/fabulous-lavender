@@ -1,7 +1,7 @@
 ---
 title: How Our Design Team Collaborates
 author: admin
-type: post
+layout: post
 date: 2020-05-10T12:30:22+00:00
 url: /2020/05/10/how-our-design-team-collaborates/
 featured_image: /wp-content/uploads/2020/05/12.jpg
